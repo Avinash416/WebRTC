@@ -1,0 +1,24 @@
+.buttons_div {
+    margin: 2% 0 0 -12%;
+    display: flex;
+    gap: 5rem;
+    justify-content: center;
+}
+
+.startRecordingBtn{
+    position: absolute;
+    right: 20%;
+    top: 17.3%;
+}
+.headings{
+    text-align: center;
+}
+.buttonCss{
+    display: flex;
+    gap: 9px;
+    justify-content: flex-end;
+}
+.audioCss {
+    display: flex;
+    justify-content: center;
+}
